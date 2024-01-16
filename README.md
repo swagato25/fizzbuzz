@@ -5,8 +5,9 @@ This is a REST server that implements the classic FizzBuzz algorithm. It exposes
 ## Build Instructions
 
 1. Clone the repository: `git clone https://github.com/swagato25/fizzbuzz.git`
-2. Build the project: `./mvnw install`
-3. Run the server: `./mvnw spring-boot:run`
+2. Navigate to the project directory: `cd fizzbuzz`
+3. Build the project: `./mvnw install`
+4. Run the server: `./mvnw spring-boot:run`
 
 ## Third-Party Libraries
 

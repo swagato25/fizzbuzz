@@ -16,4 +16,4 @@ This is a REST server that implements the classic FizzBuzz algorithm. It exposes
 
 ## API Documentation
 
-You can find the API documentation at `<link-to-api-documentation>`.
+You can find the API documentation at [API.md](https://github.com/swagato25/fizzbuzz/blob/main/API.md).
